@@ -31,3 +31,8 @@ make clean
 
 ## Exemplo
 
+O `main.c` possui o seguinte exemplo, o resultado de cada operação pode ser vista executando o código:
+
+```
+((4 + 6 - 7) * 5 / 3 % 3)**5
+```
